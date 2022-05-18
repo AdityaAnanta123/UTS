@@ -11,8 +11,8 @@ namespace Dosen
         static void Main(string[] args)
         {
             Dosen dosen1 = new Dosen();
-            dosen1.attDosen("Kamarudin, M.Kom",18932423);
-            dosen1.addCourse("Pemrograman");
+            dosen1.attDosen("Bayu Nadya Kusuma S.T, M.Eng",18932423);
+            dosen1.addCourse("Komputer Grafis");
             dosen1.Tampilan();
             Console.ReadKey();
         }

@@ -16,11 +16,11 @@ namespace Dosen
 
         public Dosen()
         {
-            this.id = 2;
-            this.nama = "";
-            this.Nik = 21211732;
+            this.id = 1;
+            this.nama = "Kamaruddin, M.Kom";
+            this.Nik = 213737123;
             this.gender = "Laki-laki";
-            this.course = "";
+            this.course = "Pemrograman";
         }
         public void attDosen(string name, int nik)
         {
